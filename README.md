@@ -3,7 +3,6 @@
 - 🧠 I’m currently learning C++ and Java.
 - 👨‍💻 I’m looking to collaborate on projects that can help me better think like a programmer.
 - 📧 How to reach me: Idris.Elmaliki06@gmail.com
-- ⚡ Fun fact: انا أعرف العربي الحمدالله
 
 <!---
 Idris-Elmaliki/Idris-Elmaliki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
